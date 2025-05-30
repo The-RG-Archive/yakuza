@@ -1,2 +1,3 @@
-# yakuza
-recreation of the yakuza website from gta 2
+# GTA 2 Yakuza Website
+## https://the-rg-archive.github.io/yakuza/
+## WIP BROKEN
